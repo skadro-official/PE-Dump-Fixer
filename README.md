@@ -7,6 +7,8 @@ Instead of realigning the sections to match the raw header, this will fix the he
 Usage:
 
 Drag and Drop the dump onto the fixer.exe
+
 or
-Open cmd and direct to the correct folder. Then type: Dump-Fixer <filename.extension>
+
+Open cmd, direct to the correct folder and type: Dump-Fixer <filename.extension>
 E.g. Dump-Fixer dump.dll
