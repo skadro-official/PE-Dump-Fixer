@@ -9,5 +9,5 @@ Usage:
 - Drag and Drop the dump onto the fixer.exe
 
 or
-- Open cmd, direct to the correct folder and type: Dump-Fixer <filename.extension>
-E.g. Dump-Fixer dump.dll
+- Open cmd, direct to the correct folder and type: Dump-Fixer "<filename.extension>"
+E.g. Dump-Fixer "dump.dll"
